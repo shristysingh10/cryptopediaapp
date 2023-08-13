@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cryptopediaapp/static/css/main.63ccd047.css",
+    "main.js": "/cryptopediaapp/static/js/main.ac0eb754.js",
+    "static/media/cryptocurrency.png": "/cryptopediaapp/static/media/cryptocurrency.1a9ab10b48328262eead.png",
+    "index.html": "/cryptopediaapp/index.html",
+    "main.63ccd047.css.map": "/cryptopediaapp/static/css/main.63ccd047.css.map",
+    "main.ac0eb754.js.map": "/cryptopediaapp/static/js/main.ac0eb754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ccd047.css",
+    "static/js/main.ac0eb754.js"
+  ]
+}
